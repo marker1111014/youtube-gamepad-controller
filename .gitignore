@@ -1,0 +1,11 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary / Scratch files
+*.tmp
+*.log
+72ed069b-*.txt
